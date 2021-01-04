@@ -1,0 +1,14 @@
+{
+    "1": {
+        "name": "default",
+        "Trust": 50,
+        "List_of_members": [
+            "mark@mail.com"
+        ]
+    },
+    "2": {
+        "name": "friends",
+        "Trust": 90,
+        "List_of_members": []
+    }
+}

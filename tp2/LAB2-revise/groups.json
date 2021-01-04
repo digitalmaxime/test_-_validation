@@ -1,0 +1,34 @@
+{
+    "1": {
+        "name": "default",
+        "Trust": 0.5714285714285714,
+        "List_of_members": [
+            "GP@paris.com",
+            "farmer@paris.com",
+            "kitchen@paris.com",
+            "SA_and_HP@paris.com",
+            "kaminski@paris.com",
+            "williams@paris.com",
+            "BG@paris.com"
+        ]
+    },
+    "2": {
+        "name": "friends",
+        "Trust": 1.0,
+        "List_of_members": [
+            "farmer@paris.com",
+            "kitchen@paris.com",
+            "kaminski@paris.com",
+            "williams@paris.com"
+        ]
+    },
+    "3": {
+        "name": "junk",
+        "Trust": 0.0,
+        "List_of_members": [
+            "GP@paris.com",
+            "SA_and_HP@paris.com",
+            "BG@paris.com"
+        ]
+    }
+}
