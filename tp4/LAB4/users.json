@@ -1,0 +1,35 @@
+{
+    "1": {
+        "name": "max@",
+        "Trust": 100,
+        "Spamn": 0,
+        "HamN": 0,
+        "Date_of_first_seen_message": 1605398400.0,
+        "Date_of_last_seen_message": 1605916800.0,
+        "Groups": [
+            "default"
+        ]
+    },
+    "3": {
+        "name": "monique@",
+        "Trust": 100,
+        "Spamn": 0,
+        "HamN": 0,
+        "Date_of_first_seen_message": 1605398400.0,
+        "Date_of_last_seen_message": 1605398400.0,
+        "Groups": [
+            "default"
+        ]
+    },
+    "2": {
+        "name": "Shanti@",
+        "Trust": 100,
+        "Spamn": 0,
+        "HamN": 0,
+        "Date_of_first_seen_message": 1605398400.0,
+        "Date_of_last_seen_message": 1605398400.0,
+        "Groups": [
+            "default"
+        ]
+    }
+}
