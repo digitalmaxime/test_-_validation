@@ -1,0 +1,104 @@
+{
+  "dataset": [
+    {
+    "mail": {
+      "Subject": "motspam patate realiste nouille jambon biscuit summer vague kiwi fabrique \n",
+      "From": "GP@paris.com",
+      "Date": "2004-08-15",
+      "Body": "motspam patate realiste nouille jambon biscuit summer vague kiwi fabrique \n",
+      "Spam": "true",
+      "File": "enronds//enron4/spam/2030.2004-08-15.GP.spam.txt"
+    }
+    },
+    {
+      "mail": {
+        "Subject": "Bonjour patate realiste nouille jambon biscuit summer vague kiwi fabrique \n",
+        "From": "farmer@paris.com",
+        "Date": "2000-09-15",
+        "Body": "Bonjour patate realiste nouille jambon biscuit summer vague kiwi fabrique \n",
+        "Spam": "false",
+        "File": "enronds//enron1/ham/2256.2000-09-15.farmer.ham.txt"
+      }
+    },
+    {
+      "mail": {
+        "Subject": "Bonjour patate realiste nouille jambon biscuit summer vague kiwi fabrique \n",
+        "From": "kitchen@paris.com",
+        "Date": "2001-12-10",
+        "Body": "Bonjour patate realiste nouille jambon biscuit summer vague kiwi fabrique \n",
+        "Spam": "false",
+        "File": "enronds//enron3/ham/4519.2001-12-10.kitchen.ham.txt"
+      }
+    },
+    {
+      "mail": {
+        "Subject": "motspam patate realiste nouille jambon biscuit summer vague kiwi fabrique \n",
+        "From": "SA_and_HP@paris.com",
+        "Date": "2005-07-18",
+        "Body": "motspam patate realiste nouille jambon biscuit summer vague kiwi fabrique \n",
+        "Spam": "true",
+        "File": "enronds//enron2/spam/4995.2005-07-18.SA_and_HP.spam.txt"
+      }
+    },
+    {
+      "mail": {
+        "Subject": "Bonjour patate realiste nouille jambon biscuit summer vague kiwi fabrique \n",
+        "From": "kaminski@paris.com",
+        "Date": "2000-01-10",
+        "Body": "Bonjour patate realiste nouille jambon biscuit summer vague kiwi fabrique \n",
+        "Spam": "false",
+        "File": "enronds//enron2/ham/0146.2000-01-10.kaminski.ham.txt"
+      }
+    },
+    {
+      "mail": {
+        "Subject": "Bonjour patate realiste nouille jambon biscuit summer vague kiwi fabrique \n",
+        "From": "kitchen@paris.com",
+        "Date": "2002-01-11",
+        "Body": "Bonjour patate realiste nouille jambon biscuit summer vague kiwi fabrique \n",
+        "Spam": "false",
+        "File": "enronds//enron3/ham/5071.2002-01-11.kitchen.ham.txt"
+      }
+    },
+    {
+      "mail": {
+        "Subject": "Bonjour patate realiste nouille jambon biscuit summer vague kiwi fabrique \n",
+        "From": "Bonjour patate realiste nouille jambon biscuit summer vague kiwi fabrique \n",
+        "Date": "2001-01-16",
+        "Body": "Bonjour patate realiste nouille jambon biscuit summer vague kiwi fabrique \n",
+        "Spam": "false",
+        "File": "enronds//enron2/ham/4066.2001-01-16.kaminski.ham.txt"
+      }
+    },
+    {
+      "mail": {
+        "Subject": "Bonjour patate realiste nouille jambon biscuit summer vague kiwi fabrique \n",
+        "From": "kitchen@paris.com",
+        "Date": "2002-01-30",
+        "Body": "Bonjour patate realiste nouille jambon biscuit summer vague kiwi fabrique \n",
+        "Spam": "false",
+        "File": "enronds//enron3/ham/5347.2002-01-30.kitchen.ham.txt"
+      }
+    },
+    {
+      "mail": {
+        "Subject": "unfoisHamSpam patate realiste nouille jambon biscuit summer vague kiwi fabrique \n",
+        "From": "unfoisHamSpam patate realiste nouille jambon biscuit summer vague kiwi fabrique \n",
+        "Date": "2002-02-05",
+        "Body": "unfoisHamSpam patate realiste nouille jambon biscuit summer vague kiwi fabrique \n",
+        "Spam": "false",
+        "File": "enronds//enron3/ham/5485.2002-02-05.kitchen.ham.txt"
+      }
+    },
+    {
+      "mail": {
+        "Subject": "motspam unfoisHamSpam realiste nouille jambon biscuit summer vague kiwi fabrique \n",
+        "From": "GP@paris.com",
+        "Date": "2004-04-24",
+        "Body": "motspam unfoisHamSpam realiste nouille jambon biscuit summer vague kiwi fabrique \n",
+        "Spam": "true",
+        "File": "enronds//enron4/spam/0963.2004-04-24.GP.spam.txt"
+      }
+    }
+  ]
+}

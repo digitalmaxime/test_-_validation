@@ -1,0 +1,86 @@
+{
+    "1": {
+        "name": "GP@paris.com",
+        "Trust": 0.0,
+        "Spamn": 193,
+        "HamN": 0,
+        "Date_of_first_seen_message": 1092528000.0,
+        "Date_of_last_seen_message": 1097971200.0,
+        "Groups": [
+            "default",
+            "junk"
+        ]
+    },
+    "2": {
+        "name": "farmer@paris.com",
+        "Trust": 1.0,
+        "Spamn": 0,
+        "HamN": 113,
+        "Date_of_first_seen_message": 968976000.0,
+        "Date_of_last_seen_message": 961718400.0,
+        "Groups": [
+            "default",
+            "friends"
+        ]
+    },
+    "3": {
+        "name": "kitchen@paris.com",
+        "Trust": 1.0,
+        "Spamn": 0,
+        "HamN": 138,
+        "Date_of_first_seen_message": 1007942400.0,
+        "Date_of_last_seen_message": 1009929600.0,
+        "Groups": [
+            "default",
+            "friends"
+        ]
+    },
+    "4": {
+        "name": "SA_and_HP@paris.com",
+        "Trust": 0.0,
+        "Spamn": 68,
+        "HamN": 0,
+        "Date_of_first_seen_message": 1121644800.0,
+        "Date_of_last_seen_message": 1028246400.0,
+        "Groups": [
+            "default",
+            "junk"
+        ]
+    },
+    "5": {
+        "name": "kaminski@paris.com",
+        "Trust": 1.0,
+        "Spamn": 0,
+        "HamN": 175,
+        "Date_of_first_seen_message": 947462400.0,
+        "Date_of_last_seen_message": 981936000.0,
+        "Groups": [
+            "default",
+            "friends"
+        ]
+    },
+    "6": {
+        "name": "williams@paris.com",
+        "Trust": 1.0,
+        "Spamn": 0,
+        "HamN": 44,
+        "Date_of_first_seen_message": 992995200.0,
+        "Date_of_last_seen_message": 1010016000.0,
+        "Groups": [
+            "default",
+            "friends"
+        ]
+    },
+    "7": {
+        "name": "BG@paris.com",
+        "Trust": 0.0,
+        "Spamn": 62,
+        "HamN": 0,
+        "Date_of_first_seen_message": 1095552000.0,
+        "Date_of_last_seen_message": 1113264000.0,
+        "Groups": [
+            "default",
+            "junk"
+        ]
+    }
+}
