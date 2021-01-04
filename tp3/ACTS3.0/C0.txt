@@ -1,0 +1,24 @@
+[System]
+Name: C0
+# apache, iis, gginix
+# mysql, oracle, postgresql, redit
+# python, php
+#
+#java  -Doutput=csv -Ddoi=3 -jar acts_3.0.jar  C0.txt  TC.csv
+#
+#Ddoi : specify the degree of interactions to be covered.
+
+
+
+
+[Parameter]
+use_log(int): 0,1
+combinaison_log(int): 0,1
+vocab_counter_treshold(int): 1,2,3,4
+cleaning_mode(int): 0,1,2,3
+calcul_mode(int): 0,1,2
+
+
+
+
+

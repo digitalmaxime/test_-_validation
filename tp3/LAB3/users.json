@@ -1,0 +1,86 @@
+{
+    "1": {
+        "name": "GP@paris.com",
+        "Trust": 0.0,
+        "Spamn": 194,
+        "HamN": 0,
+        "Date_of_first_seen_message": 1092528000.0,
+        "Date_of_last_seen_message": 1097971200.0,
+        "Groups": [
+            "default",
+            "junk"
+        ]
+    },
+    "2": {
+        "name": "farmer@paris.com",
+        "Trust": 0.008771929824561403,
+        "Spamn": 113,
+        "HamN": 1,
+        "Date_of_first_seen_message": 968976000.0,
+        "Date_of_last_seen_message": 961718400.0,
+        "Groups": [
+            "default",
+            "junk"
+        ]
+    },
+    "3": {
+        "name": "kitchen@paris.com",
+        "Trust": 0.014388489208633094,
+        "Spamn": 137,
+        "HamN": 2,
+        "Date_of_first_seen_message": 1007942400.0,
+        "Date_of_last_seen_message": 1009929600.0,
+        "Groups": [
+            "default",
+            "junk"
+        ]
+    },
+    "4": {
+        "name": "SA_and_HP@paris.com",
+        "Trust": 0.0,
+        "Spamn": 69,
+        "HamN": 0,
+        "Date_of_first_seen_message": 1121644800.0,
+        "Date_of_last_seen_message": 1028246400.0,
+        "Groups": [
+            "default",
+            "junk"
+        ]
+    },
+    "5": {
+        "name": "kaminski@paris.com",
+        "Trust": 0.011363636363636364,
+        "Spamn": 174,
+        "HamN": 2,
+        "Date_of_first_seen_message": 947462400.0,
+        "Date_of_last_seen_message": 981936000.0,
+        "Groups": [
+            "default",
+            "junk"
+        ]
+    },
+    "6": {
+        "name": "williams@paris.com",
+        "Trust": 0.044444444444444446,
+        "Spamn": 43,
+        "HamN": 2,
+        "Date_of_first_seen_message": 992995200.0,
+        "Date_of_last_seen_message": 1010016000.0,
+        "Groups": [
+            "default",
+            "junk"
+        ]
+    },
+    "7": {
+        "name": "BG@paris.com",
+        "Trust": 0.0,
+        "Spamn": 63,
+        "HamN": 0,
+        "Date_of_first_seen_message": 1095552000.0,
+        "Date_of_last_seen_message": 1113264000.0,
+        "Groups": [
+            "default",
+            "junk"
+        ]
+    }
+}
